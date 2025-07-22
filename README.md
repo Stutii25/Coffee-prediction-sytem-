@@ -118,11 +118,3 @@ Coffee Coder | ML Beginner | Passionate about AI Projects
 📬 [stutiagrawal61@gmail.com](mailto:stutiagrawal61@gmail.com)
 
 ---
-
-
-```
-
----
-
-Would you like me to export this as a `.md` file or auto-generate your `requirements.txt` file too?
-```
