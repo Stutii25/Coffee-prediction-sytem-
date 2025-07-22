@@ -2,23 +2,10 @@
 
 A fun and interactive machine learning project that predicts a person’s coffee choice based on their **mood**, **time of day**, **weather**, and **day of the week** using a Random Forest Classifier.
 
-🔗 **Live App:** [https://coffee-prediction.streamlit.app/](https://coffee-prediction.streamlit.app/)
-
----
-
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Demo](#demo)
-- [Features](#features)
-- [Dataset Schema](#dataset-schema)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
-- [Author](#author)
-
----
+🔗 **Live App:** [https://coffee-prediction.streamlit.app/](https://coffee-prediction.streamlit.app/)  
+📖 **Blog:** [Read on Medium](https://medium.com/@stutiagrawal61/how-i-used-ai-to-predict-my-friends-coffee-choice-%EF%B8%8F-and-why-it-worked-57d6ce251423)  
+💻 **GitHub Repo:** [https://github.com/Stutii25/Coffee-prediction-sytem](https://github.com/Stutii25/Coffee-prediction-sytem)  
+👤 **Author LinkedIn:** [Stuti Agrawal](https://www.linkedin.com/in/stuti-agrawal-48918b27b/)
 
 ## 🧠 Overview
 
@@ -128,14 +115,10 @@ coffee-predictor/
 
 **Stuti Agrawal**
 Coffee Coder | ML Beginner | Passionate about AI Projects
-🔗 [LinkedIn](https://www.linkedin.com/in/stuti-agrawal/)
 📬 [stutiagrawal61@gmail.com](mailto:stutiagrawal61@gmail.com)
 
 ---
 
-## 📌 License
-
-This project is for learning and demonstration purposes only. Free to use and modify under MIT License.
 
 ```
 
