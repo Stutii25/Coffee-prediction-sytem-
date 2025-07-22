@@ -82,7 +82,7 @@ pip install -r requirements.txt
 To run the app locally:
 
 ```bash
-streamlit run coffee_predictor_app.py
+streamlit run smallcoffee.py
 ```
 
 Then open the provided URL in your browser to interact with the app.
